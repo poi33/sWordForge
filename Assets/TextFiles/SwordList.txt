@@ -1,0 +1,16 @@
+knife
+Sabre
+dadao
+Dagger
+rapier
+Katana
+Kastane
+Gladius
+Cutlass
+claymore
+Falchion 
+Scimitar
+longsword
+Shortsword
+Broadsword
+Greatsword
